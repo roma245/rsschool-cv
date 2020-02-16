@@ -18,10 +18,10 @@ See my repository for some of the code examples.
 
 Research in data science
 
-*5. *Education**
+**5. *Education**
 
 Belarusian State University
 
 **6. English**
 
-C1
+TOEFL score: 96
